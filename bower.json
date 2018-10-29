@@ -1,10 +1,10 @@
 {
-  "name": "demo-bower",
+  "name": "teamplate-vegediet",
   "version": "1.0.1",
   "authors": [
-    "Trung Quan <quanlightning17@gmail.com>"
+    "Phuong Tran <phuongtran99.k60@gmail.com>"
   ],
-  "description": "Framgia standard demo Bower",
+  "description": "Framgia Template Vegedie",
   "main": "/",
   "keywords": [
     "fonticons"
